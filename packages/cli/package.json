@@ -20,10 +20,10 @@
     "@jsdocnote/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "@types/node": "^15.12.0",
-    "esbuild": "0.8.26",
-    "typescript": "^4.3.2",
     "@jsdocnote/local-api": "^1.0.0",
-    "commander": "^7.2.0"
+    "@types/node": "^15.12.0",
+    "commander": "^7.2.0",
+    "esbuild": "0.8.26",
+    "typescript": "^4.3.2"
   }
 }
